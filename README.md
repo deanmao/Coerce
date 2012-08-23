@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/deanmao/coerce.png)](http://travis-ci.org/deanmao/coerce)
 # Coerce
 
   Simple chaining style type validator inspired by Waleed's Purify
